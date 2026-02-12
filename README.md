@@ -1,50 +1,68 @@
+<!-- Typing Animation -->
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Amr+Khalid+-+Software+Engineer;Frontend+Engineer+%7C+React+Specialist;Embedded+Systems+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</a>
+</p>
+
+---
+
 # 👨‍💻 Amr Khalid
 
 ### 🚀 Software Engineer & Embedded Systems Enthusiast
 
-As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
+As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always seeking opportunities to learn, grow, and expand my skill set.
 
-My solid foundation in **Data Structures, Algorithms, and Operating Systems** has allowed me to develop efficient, maintainable, and scalable code. I am proficient in **JavaScript and TypeScript**, with extensive experience working with **React, Redux, and Next.js**.
+My solid foundation in **Data Structures, Algorithms, and Operating Systems** enables me to build efficient, maintainable, and scalable systems.
 
-Beyond web development, I have a deep interest in **Embedded Systems and AI**. I am currently working on integrating hardware like the **ESP32-S3** with advanced AI models like the **Gemini API** to build smart, real-world assistants. I strive to produce code that is not only functional but also clean and easy to understand.
+I specialize in **JavaScript and TypeScript**, with strong experience in:
+
+- ⚛️ React  
+- 🔁 Redux  
+- ▲ Next.js  
+- 🎨 Tailwind CSS  
+- 🖥 Node.js & Express  
+
+Beyond web development, I have a deep interest in **Embedded Systems and AI**.  
+Currently integrating **ESP32-S3** with advanced AI models like **Gemini API** to build smart real-world assistants.
+
+I believe great software is not only functional — it’s clean, scalable, and architected with vision.
 
 ---
 
-## 🛠 Skills
+# 🤹‍♂️ Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,cpp,c,python,arduino,raspberrypi,linux,git,github,vscode,postman,docker&perline=10" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-* **Smart Assistant (ESP32-S3):** A hardware-based assistant connected to Gemini AI for real-time processing.
-* **macOS Portfolio:** A personal portfolio website designed to mimic the full macOS user interface.
-* **PDF-to-Quiz AI:** A web application that converts uploaded PDF content into interactive quizzes.
-* **OS Chat System:** A C++ based communication system utilizing sockets, multithreading, and shared memory.
+🔹 **Smart Assistant (ESP32-S3)**  
+Hardware-based assistant connected to Gemini AI for real-time processing.
 
----
+🔹 **macOS Portfolio**  
+A personal portfolio website designed to mimic the full macOS user interface.
 
-## 📡 SYSTEM METRICS
+🔹 **PDF-to-Quiz AI**  
+Web application that converts uploaded PDF content into interactive quizzes.
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=70E1E8&icon_color=70E1E8&title_color=39FF14" height="180" alt="Amr's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=70E1E8&title_color=39FF14" height="180" alt="Amr's Top Langs" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&fire=39FF14&ring=39FF14&stroke=70E1E8" width="100%" alt="Streak Stats" />
-</div>
+🔹 **OS Chat System**  
+C++ communication system utilizing sockets, multithreading, and shared memory.
 
 ---
 
@@ -63,6 +81,8 @@ Beyond web development, I have a deep interest in **Embedded Systems and AI**. I
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Architecture is frozen music. Code is fluid architecture."</i>
