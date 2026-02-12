@@ -34,17 +34,13 @@ Beyond web development, I actively explore **Embedded Systems & AI integration**
 <div align="center">
 
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
 
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/express-icon.svg" width="80" height="80" />
+
+
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" />
@@ -52,15 +48,14 @@ Beyond web development, I actively explore **Embedded Systems & AI integration**
 
 
 
-<img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/html5-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/css3-icon.svg" width="80" height="80" />
+
+
+
+
+
 
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/redux-saga-icon.svg" width="80" height="80" />
+
 
 
 
