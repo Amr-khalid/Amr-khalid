@@ -1,99 +1,89 @@
-<!-- ================= HEADER ================= -->
+<!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Amr+Khalid+%7C+Software+Engineer;Frontend+Engineer+%7C+React+%2B+TypeScript;Embedded+Systems+%26+AI+Enthusiast;Building+Scalable+%26+Intelligent+Systems;Always+Learning.+Always+Improving." />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Amr+Khalid+-+Software+Engineer;Frontend+Engineer+%7C+React+Specialist;Embedded+Systems+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</a>
 </p>
 
 ---
 
-# 👨‍💻 Amr Khalid  
+# 👨‍💻 Amr Khalid
 
-### 🚀 Software Engineer | Frontend Architect | Embedded Systems Explorer  
+### 🚀 Software Engineer & Embedded Systems Enthusiast
 
-I design and build **scalable, high-performance applications** using modern technologies and strong engineering principles.
+As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always seeking opportunities to learn, grow, and expand my skill set.
 
-With a strong foundation in:
+My solid foundation in **Data Structures, Algorithms, and Operating Systems** enables me to build efficient, maintainable, and scalable systems.
 
-- 🧠 Data Structures  
-- ⚙ Operating Systems  
-- 🧩 Algorithms  
-- 🏗 System Architecture  
+I specialize in **JavaScript and TypeScript**, with strong experience in:
 
-I focus on writing clean, production-ready, and maintainable code.
+- ⚛️ React  
+- 🔁 Redux  
+- ▲ Next.js  
+- 🎨 Tailwind CSS  
+- 🖥 Node.js & Express  
 
----
+Beyond web development, I have a deep interest in **Embedded Systems and AI**.  
+Currently integrating **ESP32-S3** with advanced AI models like **Gemini API** to build smart real-world assistants.
 
-# 🛠 Tech Arsenal
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,cpp,c,python,arduino,raspberrypi,linux,git,github,docker,vscode,postman&perline=10" />
-</p>
+I believe great software is not only functional — it’s clean, scalable, and architected with vision.
 
 ---
 
-# 🚀 Featured Projects
+# 🤹‍♂️ Skills
 
-### 🤖 Smart AI Assistant (ESP32-S3 + Gemini API)
-Hardware-integrated assistant capable of real-time AI interaction.
+<div align="center">
 
-### 🖥 macOS Interactive Portfolio
-Fully interactive portfolio replicating macOS UI experience.
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
 
-### 📄 PDF-to-Quiz AI Generator
-Transforms uploaded PDFs into interactive quizzes using AI.
-
-### 💬 OS-Level Chat System (C++)
-Socket-based communication system using multithreading & shared memory.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-khalid&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-khalid&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-khalid&theme=chartreuse-dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amr-khalid&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
+🔹 **Smart Assistant (ESP32-S3)**  
+Hardware-based assistant connected to Gemini AI for real-time processing.
+
+🔹 **macOS Portfolio**  
+A personal portfolio website designed to mimic the full macOS user interface.
+
+🔹 **PDF-to-Quiz AI**  
+Web application that converts uploaded PDF content into interactive quizzes.
+
+🔹 **OS Chat System**  
+C++ communication system utilizing sockets, multithreading, and shared memory.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🌍 Connect With Me
+## 🌟 Connect With Me
 
 <p align="center">
   <a href="mailto:ak7055864@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://wa.me/201024556910">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/amr-khalid-8a54843a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amr-khalid-8a54843a8?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Great engineers don’t just write code — they architect the future."
+  <i>"Architecture is frozen music. Code is fluid architecture."</i>
 </p>
