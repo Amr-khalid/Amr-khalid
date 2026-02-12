@@ -33,16 +33,36 @@ Beyond web development, I actively explore **Embedded Systems & AI integration**
 
 <div align="center">
 
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
+
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
+
+
+
+<img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/html5-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/css3-icon.svg" width="80" height="80" />
+
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/redux-saga-icon.svg" width="80" height="80" />
+
+
 
 </div>
 
@@ -91,34 +111,9 @@ Beyond web development, I actively explore **Embedded Systems & AI integration**
 
 ---
 
-# 📊 GitHub Activity  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
 
----
-
-## 🌟 Connect With Me  
-
-<p align="center">
-  <a href="mailto:ak7055864@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/201024556910">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amr-khalid-8a54843a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
