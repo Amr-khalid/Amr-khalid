@@ -1,88 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Amr%20Khalid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20%26%20Embedded%20Systems&descSize=20&descAlignY=65&stroke=000000&strokeWidth=2" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=INITIALIZING+AMR+KHALID+PROFILE...;%3E+SUBJECT:+FULL+STACK+%26+EMBEDDED+ENGINEER;%3E+STATUS:+BUILDING+LEGENDARY+SYSTEMS." alt="Typing SVG" />
+  </a>
 </div>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7C52D&center=true&vCenter=true&width=900&lines=🌟+Pro+Frontend+Engineer+(React+%2B+TypeScript);🚀+Embedded+Systems+Innovator+(ESP32+%2B+AI);🧠+Building+Smart%2C+Scalable+Solutions;🔥+Passionate+about+Clean+Code+%26+Performance" alt="Typing SVG" />
-  </a>
-</h3>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🚀 **Behind The Code**
+### 🛸 **THE CORE (About Me)**
 
-> *"Code is not just lines... it's architecture, logic & creativity."*
+> *"Architecture is frozen music. Code is fluid architecture."*
 
-👋 I'm a seasoned Engineer based in **Egypt**, specializing in bridging the gap between sophisticated **Frontend Interfaces** and powerful **Embedded Backend Systems**. I don't just build apps; I craft resilient, high-performance digital ecosystems.
-
-📍 **Focus:** Clean Architecture, Scalability, and Integrating AI with Hardware.
-
----
-
-## 🛠️ **The Arsenal (Tech Stack)**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,redux,js,html,css,tailwind,nodejs,express,mongodb,cpp,python,arduino,raspberrypi,git,github,vscode,postman,linux&perline=15" />
-  </a>
-</p>
----
-
-## 📊 **Performance & Impact**
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amr-khalid&theme=dracula&no-bg=true&margin-w=15&margin-h=15" alt="amr-khalid trophies" />
-  </a>
+<p align="center" width="60%">
+  I am an engineer operating at the intersection of <b>high-performance web interfaces</b> and <b>intelligent hardware systems</b>. Based in Egypt, I don't just write code; I engineer scalable, modern solutions bridging the physical and digital worlds.
 </p>
 
 <br/>
 
+### ⚡ **HYPERDRIVE ARSENAL (Moving Stack)**
+
+<marquee scrollamount="12" direction="left" width="90%">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,nodejs,express,mongodb&theme=dark" height="60" style="margin: 0 20px;" />
+</marquee>
+
+<marquee scrollamount="12" direction="right" width="90%">
+    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,linux,git,github,vscode,postman,docker&theme=dark" height="60" style="margin: 0 20px;" />
+</marquee>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+### 📡 **SYSTEM METRICS**
+
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="5">
     <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="180" alt="github stats"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide=contribs" height="180" alt="Amr's Stats" />
       </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="top languages"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Amr's Top Langs" />
       </td>
     </tr>
   </table>
   
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&mode=daily&bg_color=0d1117" width="800" alt="streak stats"/>
+  <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&bg_color=00000000&fire=39FF14&ring=39FF14" alt="Streak Stats" />
+  </p>
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 **The Contribution Engine (3D)**
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=0d1117" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="800" />
-</p>
-
----
-
-## 🌟 **Let's Connect**
+### 📟 **ESTABLISH UPLINK**
 
 <p align="center">
   <a href="mailto:ak7055864@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="35"/>
+    <img src="https://img.shields.io/badge/MAIL_UPLINK-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/201024556910">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" height="35"/>
+    <img src="https://img.shields.io/badge/SECURE_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/amr-khalid-8a54843a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="35"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" height="40"/>
   </a>
 </p>
 
