@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
-
 <!-- ================= SOCIAL BADGES ================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-khalid-8a54843a8/">
@@ -57,13 +55,15 @@ I enjoy building:
 
 I'm currently focused on deepening my knowledge of **system design** and **cloud architecture**, while shipping real products that people actually use.
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&height=35&lines=Clean+Code+%7C+Scalable+Systems+%7C+Great+UX;Always+Learning%2C+Always+Building" alt="typing"/>
+</div>
+
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
 <!-- ================= TECH STACK ================= -->
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Tech Stack
@@ -162,10 +162,12 @@ flowchart LR
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
-
 <!-- ================= FEATURED PROJECTS ================= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=30&lines=A+look+at+what+I've+been+building..." alt="typing"/>
+</div>
 
 <br/>
 
@@ -445,8 +447,6 @@ Cloud-Oriented Thinking
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
-
 <!-- ================= GITHUB STATS ================= -->
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> GitHub Analytics
 
@@ -615,8 +615,6 @@ I'm planning to start writing about my experience building **SpeedEdu**, MERN ar
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
-
 <!-- ================= CONTACT ================= -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Let's Connect
 
@@ -644,7 +642,7 @@ I'm planning to start writing about my experience building **SpeedEdu**, MERN ar
 </td>
 <td align="center" width="20%">
 <a href="https://wa.me/201024556910">
-<img src="https://cdn-icons-png.flaticon.com/512/455/455705.png" width="45"/><br/>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="45"/><br/>
 <b>WhatsApp</b>
 </a>
 </td>
