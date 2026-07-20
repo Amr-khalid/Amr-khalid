@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= HEADER BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=280&section=header&text=Amr%20Khaled&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Engineer&descAlignY=58&descSize=22" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=280&section=header&text=Amr%20Khaled&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Engineer&descAlignY=58&descSize=22" alt="header banner"/>
 
 <!-- ================= TYPING SVG ================= -->
 <a href="https://github.com/Amr-khalid">
@@ -9,6 +9,8 @@
 </a>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
 <!-- ================= SOCIAL BADGES ================= -->
 <p align="center">
@@ -60,6 +62,8 @@ I'm currently focused on deepening my knowledge of **system design** and **cloud
 </table>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
 <!-- ================= TECH STACK ================= -->
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Tech Stack
@@ -157,6 +161,8 @@ flowchart LR
 ```
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
 <!-- ================= FEATURED PROJECTS ================= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
@@ -307,53 +313,139 @@ A low-level chat system exploring socket programming and operating system concep
 
 <br/>
 
-<!-- ================= SKILLS PROGRESS ================= -->
+<!-- ================= SKILLS BREAKDOWN ================= -->
 ## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35"> Skills Breakdown
 
 <table width="100%">
-<tr><td width="25%"><b>Frontend Development</b></td><td width="75%">
+<tr>
+<td width="25%" valign="top">
 
-![](https://progress-bar.xyz/92/?title=&width=500&color=0ea5e9&suffix=%25)
+<div align="center">
 
-</td></tr>
-<tr><td><b>Backend Development</b></td><td>
+### 🎨
+**Frontend Development**
 
-![](https://progress-bar.xyz/88/?title=&width=500&color=1e3a8a&suffix=%25)
+`Advanced`
 
-</td></tr>
-<tr><td><b>Database Design</b></td><td>
+React · Next.js · TypeScript
+UI Animation · Responsive Systems
 
-![](https://progress-bar.xyz/85/?title=&width=500&color=47A248&suffix=%25)
+</div>
 
-</td></tr>
-<tr><td><b>UI / UX Design</b></td><td>
+</td>
+<td width="25%" valign="top">
 
-![](https://progress-bar.xyz/87/?title=&width=500&color=f472b6&suffix=%25)
+<div align="center">
 
-</td></tr>
-<tr><td><b>Problem Solving</b></td><td>
+### ⚙️
+**Backend Development**
 
-![](https://progress-bar.xyz/90/?title=&width=500&color=fbbf24&suffix=%25)
+`Advanced`
 
-</td></tr>
-<tr><td><b>Communication</b></td><td>
+Node.js · Express · REST APIs
+Auth & Realtime Systems
 
-![](https://progress-bar.xyz/85/?title=&width=500&color=34d399&suffix=%25)
+</div>
 
-</td></tr>
-<tr><td><b>API Design</b></td><td>
+</td>
+<td width="25%" valign="top">
 
-![](https://progress-bar.xyz/89/?title=&width=500&color=f97316&suffix=%25)
+<div align="center">
 
-</td></tr>
-<tr><td><b>System Design</b></td><td>
+### 🗄️
+**Database Design**
 
-![](https://progress-bar.xyz/80/?title=&width=500&color=a855f7&suffix=%25)
+`Proficient`
 
-</td></tr>
+MongoDB · Mongoose · SQL
+Schema & Query Optimization
+
+</div>
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 🧭
+**UI / UX Design**
+
+`Proficient`
+
+Design Systems · Motion Design
+User-Centered Interfaces
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 🧩
+**Problem Solving**
+
+`Advanced`
+
+Algorithmic Thinking
+Debugging Complex Systems
+
+</div>
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 💬
+**Communication**
+
+`Proficient`
+
+Technical Writing
+Team Collaboration
+
+</div>
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 🔗
+**API Design**
+
+`Advanced`
+
+RESTful Architecture
+Clean, Documented Endpoints
+
+</div>
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 🏗️
+**System Design**
+
+`Growing`
+
+Scalable Architecture
+Cloud-Oriented Thinking
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
 
 <!-- ================= GITHUB STATS ================= -->
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> GitHub Analytics
@@ -393,6 +485,121 @@ A low-level chat system exploring socket programming and operating system concep
 
 <br/>
 
+<!-- ================= TIMELINE ================= -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> My Journey
+
+```mermaid
+timeline
+    title Amr Khaled — Engineering Journey
+    Started at University of Alexandria : Began formal studies in Computer Science / Engineering track
+    Learned Core Web Fundamentals : HTML5, CSS3, JavaScript
+    Went Full Stack (MERN) : React, Node.js, Express, MongoDB
+    Built OS-Level Chat System : Explored C++, sockets, and OS concepts
+    Built macOS Portfolio Experience : Focused on premium animation & interactive UX
+    Built GamingHub : Shipped a full-stack platform with authentication
+    Started SpeedEdu : Began building an educational SaaS platform from scratch
+    Integrated AI into Projects : Shipped PDF to Quiz AI and Smart Assistant (Gemini API)
+    Today : Growing SpeedEdu, deepening System Design & Cloud skills
+```
+
+<br/>
+
+<!-- ================= CODING STATS ================= -->
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35"> Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amr-khalid&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&layout=compact" alt="WakaTime stats"/>
+
+</div>
+
+> 💡 Coding-time stats above are powered by [WakaTime](https://wakatime.com/). Install the WakaTime editor plugin and link your `wakatime.com` username to `Amr-khalid` for this card to populate automatically.
+
+<div align="center">
+
+| 🗓️ Metric | 📊 Detail |
+|---|---|
+| **Primary Editor** | VS Code |
+| **Most Active Stack** | JavaScript / TypeScript · React · Node.js |
+| **Workflow Style** | Feature-branch driven, frequent small commits |
+| **Focus Areas Right Now** | System Design · Backend Architecture · SpeedEdu |
+
+</div>
+
+<br/>
+
+<!-- ================= CURRENTLY LEARNING ================= -->
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Currently Learning
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🏗️
+**System Design**
+
+Scalability · Load Balancing
+Caching · Distributed Systems
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### ☁️
+**Cloud Architecture**
+
+Deployment Pipelines
+Cloud-Native Application Design
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🤖
+**Applied AI Engineering**
+
+Integrating LLMs & AI APIs
+into Real Products
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= BLOG / ARTICLES ================= -->
+## <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="35"> Blog & Articles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+📝 **No public articles published yet**
+
+I'm planning to start writing about my experience building **SpeedEdu**, MERN architecture decisions, and lessons learned from shipping real products.
+
+<i>This section will auto-populate once articles are published.</i>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ================= GOALS ================= -->
 ## <img src="https://media.giphy.com/media/xUOxfhU8C7chuw1nre/giphy.gif" width="35"> Current Goals
 
@@ -408,6 +615,8 @@ A low-level chat system exploring socket programming and operating system concep
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider"/>
+
 <!-- ================= CONTACT ================= -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Let's Connect
 
@@ -417,7 +626,7 @@ A low-level chat system exploring socket programming and operating system concep
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/Amr-khalid">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45"/><br/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" style="transition: transform 0.3s;"/><br/>
 <b>GitHub</b>
 </a>
 </td>
@@ -434,15 +643,23 @@ A low-level chat system exploring socket programming and operating system concep
 </a>
 </td>
 <td align="center" width="20%">
+<a href="https://wa.me/201024556910">
 <img src="https://cdn-icons-png.flaticon.com/512/455/455705.png" width="45"/><br/>
-<b>+20 1024556910</b>
+<b>WhatsApp</b>
+</a>
 </td>
 <td align="center" width="20%">
+<a href="https://www.google.com/maps/place/Kafr+El+Sheikh">
 <img src="https://cdn-icons-png.flaticon.com/512/854/854929.png" width="45"/><br/>
 <b>Kafr El Sheikh, Egypt</b>
+</a>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=0EA5E9&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+great+together+%F0%9F%9A%80" alt="Let's connect typing"/>
 
 </div>
 
@@ -452,6 +669,8 @@ A low-level chat system exploring socket programming and operating system concep
 
 ### 💭 "Great software is built one clean commit at a time."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=150&section=footer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=150&section=footer&animation=twinkling"/>
 
 </div>
