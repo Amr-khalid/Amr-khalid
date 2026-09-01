@@ -71,29 +71,19 @@ const PLAYER_ONE = {
   <img src="https://activity-graph.vercel.app/graph?username=Amr-khalid&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF007F&area=true&area_color=00FFCC&hide_border=false&custom_title=31-Day%20Commit%20Activity%20Pulse" width="100%" alt="31-Day Commit Activity Pulse" />
 </a>
 
-<br/><br/>
 
-<!-- Real Live 365-Day Contribution Heatmap -->
-<a href="https://github.com/Amr-khalid?tab=overview">
-  <img src="https://ghchart.rshah.org/00FFCC/Amr-khalid" width="100%" alt="Yearly Contribution Heatmap" />
-</a>
 
 <br/><br/>
 
 <!-- Real Streak & Total Contributions -->
-<a href="https://github.com/Amr-khalid?tab=overview">
+<a href="https://github.com/Amr-khalid?tab=overview&from=2026-09-01&to=2026-09-02">
   <img src="https://streak-stats.demolab.com?user=Amr-khalid&theme=black-ice&background=0D1117&fire=00FFCC&ring=00FFCC&stroke=00FFCC&border=00FFCC&hide_border=false&border_radius=10" width="100%" alt="GitHub Streak Stats" />
 </a>
 
 <br/><br/>
 
 <!-- Real Contribution Grid Snake -->
-<a href="https://github.com/Amr-khalid?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</a>
+
 
 <br/><br/>
 
