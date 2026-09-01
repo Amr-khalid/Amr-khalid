@@ -62,34 +62,56 @@ const PLAYER_ONE = {
 
 ---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" width="30"/> GITHUB METRICS & REAL COMMIT STATS
+## 📊 GITHUB METRICS & REAL COMMIT STATS
 
 <div align="center">
 
-<!-- Real 31-Day Activity Curve -->
-<img src="https://activity-graph.vercel.app/graph?username=Amr-khalid&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF007F&area=true&area_color=00FFCC&hide_border=false&custom_title=31-Day%20Commit%20Activity%20Pulse" width="100%" alt="31-Day Commit Activity Pulse" />
+<!-- Real 31-Day Activity Curve (Clickable to Live Overview) -->
+<a href="https://github.com/Amr-khalid?tab=overview">
+  <img src="https://activity-graph.vercel.app/graph?username=Amr-khalid&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF007F&area=true&area_color=00FFCC&hide_border=false&custom_title=31-Day%20Commit%20Activity%20Pulse" width="100%" alt="31-Day Commit Activity Pulse" />
+</a>
 
 <br/><br/>
 
 <!-- Real Live 365-Day Contribution Heatmap -->
-<a href="https://github.com/Amr-khalid">
+<a href="https://github.com/Amr-khalid?tab=overview">
   <img src="https://ghchart.rshah.org/00FFCC/Amr-khalid" width="100%" alt="Yearly Contribution Heatmap" />
 </a>
 
 <br/><br/>
 
 <!-- Real Streak & Total Contributions -->
-<img src="https://streak-stats.demolab.com?user=Amr-khalid&theme=black-ice&background=0D1117&fire=00FFCC&ring=00FFCC&stroke=00FFCC&border=00FFCC&hide_border=false&border_radius=10" width="100%" alt="GitHub Streak Stats" />
+<a href="https://github.com/Amr-khalid?tab=overview">
+  <img src="https://streak-stats.demolab.com?user=Amr-khalid&theme=black-ice&background=0D1117&fire=00FFCC&ring=00FFCC&stroke=00FFCC&border=00FFCC&hide_border=false&border_radius=10" width="100%" alt="GitHub Streak Stats" />
+</a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<!-- Real Contribution Grid Snake -->
+<a href="https://github.com/Amr-khalid?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Amr-khalid/Amr-khalid/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Retro 8-Bit Checkpoint & Stage Clear Credits Footer -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="130" alt="Pixel Bonfire Checkpoint" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=00FFCC&background=0D111700&center=true&vCenter=true&width=760&height=50&lines=STAGE+01+CLEAR%21+THANKS+FOR+VISITING;GAME+SAVED+AT+CHECKPOINT+%5B200+OK%5D;LET%27S+BUILD+SOMETHING+EXTRAORDINARY&v=2" alt="Retro Game Ending Terminal" />
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮%20STAGE-01%20CLEAR-00FFCC?style=for-the-badge&labelColor=0D1117&color=00FFCC" alt="Stage Clear" />
+  <img src="https://img.shields.io/badge/💾%20CHECKPOINT-SAVED-FF007F?style=for-the-badge&labelColor=0D1117&color=FF007F" alt="Checkpoint Saved" />
+  <img src="https://img.shields.io/badge/🚀%20OPEN%20TO-NEW%20QUESTS-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5" alt="Open to Quests" />
+</p>
 
 </div>
