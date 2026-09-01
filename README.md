@@ -27,7 +27,7 @@
   <a href="mailto:ak7055864@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://github.com/Amr-khalid?tab=overview&from=2026-09-01&to=2026-09-02">
+  <a href="https://github.com/Amr-khalid">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Amr-khalid&label=Profile%20Views&color=00FFCC&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3ifymdUsiYg1qv/giphy.gif" width="30"/> CHARACTER PROFILE [ABOUT ME]
+## 👾 CHARACTER PROFILE [ABOUT ME]
 
 ```javascript
 const PLAYER_ONE = {
