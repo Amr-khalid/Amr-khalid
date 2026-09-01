@@ -67,7 +67,7 @@ const PLAYER_ONE = {
 <div align="center">
 
 <!-- Real 31-Day Activity Curve (Clickable to Live Overview) -->
-<a href="https://github.com/Amr-khalid?tab=overview">
+<a href="https://github.com/Amr-khalid?tab=overview&from=2026-09-01&to=2026-09-02">
   <img src="https://activity-graph.vercel.app/graph?username=Amr-khalid&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF007F&area=true&area_color=00FFCC&hide_border=false&custom_title=31-Day%20Commit%20Activity%20Pulse" width="100%" alt="31-Day Commit Activity Pulse" />
 </a>
 
