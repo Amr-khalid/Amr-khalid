@@ -85,23 +85,16 @@ const PLAYER_ONE = {
 <!-- Real Contribution Grid Snake -->
 
 
-<br/><br/>
 
 <!-- Retro 8-Bit Checkpoint & Stage Clear Credits Footer -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="130" alt="Pixel Bonfire Checkpoint" />
 
-<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=00FFCC&background=0D111700&center=true&vCenter=true&width=760&height=50&lines=STAGE+01+CLEAR%21+THANKS+FOR+VISITING;GAME+SAVED+AT+CHECKPOINT+%5B200+OK%5D;LET%27S+BUILD+SOMETHING+EXTRAORDINARY&v=2" alt="Retro Game Ending Terminal" />
 </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎮%20STAGE-01%20CLEAR-00FFCC?style=for-the-badge&labelColor=0D1117&color=00FFCC" alt="Stage Clear" />
-  <img src="https://img.shields.io/badge/💾%20CHECKPOINT-SAVED-FF007F?style=for-the-badge&labelColor=0D1117&color=FF007F" alt="Checkpoint Saved" />
-  <img src="https://img.shields.io/badge/🚀%20OPEN%20TO-NEW%20QUESTS-0077B5?style=for-the-badge&labelColor=0D1117&color=0077B5" alt="Open to Quests" />
-</p>
+
 
 </div>
