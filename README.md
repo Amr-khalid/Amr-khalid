@@ -25,29 +25,27 @@
 <!-- العمود الأيمن -->
 <td width="72%" align="left">
 
-<!-- رفعنا الـ width لـ 700 والـ size لـ 14 حتى يفرد الجدول بالكامل ولا ينقطع اسمك -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=00FFCC&background=0D111700&vCenter=true&width=700&height=50&lines=PLAYER%3A+AMR+KHALED+%5BLVL+99%5D;CLASS%3A+FULL-STACK+ARCHITECT;MISSION%3A+BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" />
 </a>
 
 <h4>👾 CHARACTER STACK & INVENTORY</h4>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,redis,git,github,vercel&perline=8&theme=dark" alt="Tech Stack" />
+<!-- تمت إضافة nestjs وتعديل التقسيم -->
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,nestjs,mongodb,postgres,redis,git,github,vercel&perline=8&theme=dark" alt="Tech Stack" />
 <br/>
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="24" alt="Expo" />
 </p>
 
-<!-- كود عريض بمسافات تفرد مساحة الـ pre على كامل المساحة المتبقية -->
 <pre>const PLAYER_ONE = {
-  title:    "Senior Full Stack MERN, Mobile & Systems Architect",
+  title:    "Senior Full Stack MERN/NestJS, Mobile & Systems Architect",
   mobile:   ["React Native", "Expo"],
   location: "Kafr El Sheikh, Egypt 🇪🇬",
   mission:  "Transforming complex requirements into clean, scalable code."
 };</pre>
 
-<!-- عنصر خفي لضمان إجبار المتصفح على فرد العمود بعرض الحاوية كاملاً -->
 <img src="https://via.placeholder.com/750x1/000000/000000.png" width="100%" height="1" style="display:block; opacity:0;" />
 
 </td>
