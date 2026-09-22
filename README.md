@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-##  GITHUB METRICS & REAL COMMIT STATS
+#  GITHUB METRICS & REAL COMMIT STATS
 
 <div align="center">
 
